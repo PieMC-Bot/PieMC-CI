@@ -1,0 +1,3 @@
+Class CI():
+  def read():
+     
